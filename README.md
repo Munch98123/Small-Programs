@@ -1,2 +1,2 @@
 # Small-Programs
-Small Programs coded in various languages
+Small Programs coded in Java
